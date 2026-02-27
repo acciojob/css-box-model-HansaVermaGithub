@@ -8,26 +8,22 @@
 	
 }
 #eg2{
-	height:200%;
-	width:80%;
-	background-color:cyan;
-	margin:5%;
-	
-	
-	border-width:30px;
+	margin:20px;
+	border-width:15px;
 	border-style:solid;
 	border-color:blue;
 	
 }
 #eg3{
 	padding: 50px;
-	border-width:2px;
-	border-style:solid;
-	border-color:royalblue;
+	background-color:lightblue;
 }
+
 #eg4{
-	
-}
-#eg5{
+	width:300px;
+	background-color:lightblue;
+	padding:50px;
+	margin:20px;
+	border:15px solid blue;
 	
 }
