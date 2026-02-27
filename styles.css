@@ -2,24 +2,34 @@
 /* Your CSS Code here. */
 #eg1{
 	margin:20px;
-	width:300px
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
 	
 }
 #eg2{
+	height:200%;
+	width:80%;
+	background-color:cyan;
+	margin:5%;
 	
 	
-	border: 15px solid blue;
+	border-width:30px;
+	border-style:solid;
+	border-color:blue;
 	
 }
 #eg3{
 	padding: 50px;
-	background-color:lightblue;
-	margin:20 px
-	border: 15px solid blue;
+	border-width:2px;
+	border-style:solid;
+	border-color:royalblue;
 }
 #eg4{
 	
 }
 #eg5{
-	
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
 }
